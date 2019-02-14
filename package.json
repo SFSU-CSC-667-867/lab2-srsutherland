@@ -1,0 +1,23 @@
+{
+  "name": "lab2-srsutherland",
+  "version": "1.0.0",
+  "description": "- https://docs.npmjs.com/",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SFSU-CSC-667-867/lab2-srsutherland.git"
+  },
+  "author": "Sean Sutherland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SFSU-CSC-667-867/lab2-srsutherland/issues"
+  },
+  "homepage": "https://github.com/SFSU-CSC-667-867/lab2-srsutherland#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4"
+  }
+}
